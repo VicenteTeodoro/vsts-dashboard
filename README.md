@@ -1,2 +1,2 @@
-# webpack_base
-This is a basic webpack configuration using webpack dev server
+# webpack_typscript
+This is a basic webpack configuration using webpack dev server and typescript
